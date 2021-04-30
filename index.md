@@ -22,4 +22,4 @@ However, when the educational institution governs the data, there are several be
 4. Educational institution could govern data and provide services for the learners throughout their learning carrier at the educational institution - in a longevity perspectiv.
 5. For the learners theiy will have all their data governed by one entity, and transferring the data to other services will then be much easier to manage.
 
-Take contact through [http://www.hypatia-learning.com/|Our webpage]
+Take contact through http://www.hypatia-learning.com/|Our webpage
