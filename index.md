@@ -1,25 +1,16 @@
-# Technical documentation
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-## For the services provided by Hypatia Learning AS
+layout: home
+---
 
-We provide services that gives all organisations the possibility to govern all data produced by systems that require a user to logon to get access.
+# Hypatia Learning AS
 
-### The school and educational use case
+Fremtidens skole er basert på data, og innsikt fra elevers digitale læringsaktiviteter.
 
-In education users use their login identity (in Norway FEIDE) to get access to digital services and digital resources provided by a pletora of providers. In todays environment all data produced by the learners in interacting with the services and resources is managed and controlled by the provider.
+Skal elever lære bedre, må lærere få bedre verktøy.
 
-This is problematic of a number of reasons.
+Vi har et knippe verktøy som støtter læreres arbeide med Vurdering for Læring.
 
-1. Data produced by children need extra protection
-2. Children cannot give consent to use and governance of data
-3. It almost impossible for the educational institution to process the data for greater insight about the progression of the learners.
-
-However, when the educational institution governs the data, there are several benefits:
-
-1. Educational instituion decides how data is to be processed
-2. One singel entity for parents to give consent to use of childrens data
-3. Data could be used to provide value for educators, learners, educational institution, parents
-4. Educational institution could govern data and provide services for the learners throughout their learning carrier at the educational institution - in a longevity perspectiv.
-5. For the learners theiy will have all their data governed by one entity, and transferring the data to other services will then be much easier to manage.
-
-Take contact through http://www.hypatia-learning.com/|Our webpage
+På disse sidene finner du all hjelpeinformasjon vi har laget for å lette bruken av våre WebApper.
