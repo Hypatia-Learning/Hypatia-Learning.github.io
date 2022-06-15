@@ -1,12 +1,12 @@
 ---
 layout: educator
-title: 'Opprette skriftlig oppgave for vurdering i et fag'
+title: 'Opprette skriftlig oppgave for vurdering'
 date: 2022-01-01
 categories: educator
-permalink: /v4l/educator/assignmentfeedbackheading/
+permalink: /v4l/educator/assignmentheading/
 ---
 
-CreateAssignment Subject Automatiske Tilbakemeldinger overskrift
+Homepage assignment heading
 
 ## For å opprette gjør du følgende:
 
