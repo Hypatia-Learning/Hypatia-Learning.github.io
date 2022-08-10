@@ -5,19 +5,10 @@ date: 2022-01-01
 categories: educator
 permalink: /v4l/educator/assignmentsubjectheading/
 ---
+# Fag
 
-CreateAssignment Subject Heading Assignment
+Ved å klikke på det blå pluss symbolet til høyre for det spørsmålstegn du har klikket på, vil du opprette en ny oppgave i dette faget.
 
-## For å opprette gjør du følgende:
+Tallet til venstre er hvor mange oppgaver som allerede er laget til dette faget av deg som lærer.
 
-- liste 1
-- liste 1
-- liste 1
-- liste 1
-
-## Hva betyr det for elevene
-
-1. liste 1
-2. liste 1
-3. liste 1
-4. liste 1
+Det er ikke mulig for faglærere å samarbeide om oppgaver. 

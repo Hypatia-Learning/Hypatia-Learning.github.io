@@ -6,18 +6,15 @@ categories: educator
 permalink: /v4l/educator/assessesassessed/
 ---
 
-Educator assessed assignments
+# Vurderingsoppgave
 
-## For å opprette gjør du følgende:
+Her ser du oppgavene i faget. Tallet i blå paranteser er hvor mange oppgaver du enda ikke har vurdert.
 
-- liste 1
-- liste 1
-- liste 1
-- liste 1
+Ved å klikke på 'ned pilen' til høyre får du opp hvilke elevers oppgaver du enda ikke har vurdert.
+Du får også opp en oversikt over hvilke oppgaver som er vurdert. 
 
-## Hva betyr det for elevene
+Hvis elever har vurdert oppgavene ser du hvilke vurderinger de har gjort.
 
-1. liste 1
-2. liste 1
-3. liste 1
-4. liste 1
+Ved å klikke på 'ned pilen' til høyre for elevens navn får du opp informasjon om oppgaven til eleven.
+Ved å klikke på 'arket' til høyre for oppgaven får du opp hele oppgaven, hvor du kan gi konkrete tilbakemeldinger.
+

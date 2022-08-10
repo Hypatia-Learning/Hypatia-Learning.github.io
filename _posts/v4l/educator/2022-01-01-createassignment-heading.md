@@ -6,18 +6,10 @@ categories: educator
 permalink: /v4l/educator/assignmentheading/
 ---
 
-CreateAssignment Heading
+# Fagoversikt
 
-## For å opprette gjør du følgende:
+Her ser du de fagene du er registrert som fagansvarlig for. 
 
-- liste 1
-- liste 1
-- liste 1
-- liste 1
+Hvis du er klassekontakt vil du se alle fagene elevene i din klasse har.
 
-## Hva betyr det for elevene
-
-1. liste 1
-2. liste 1
-3. liste 1
-4. liste 1
+Det betyr at du som er *klassekontakt* kan se hvilke oppgaver faglærerne har laget og hva elevene har svart i disse. Du kan også se hvilke vurderinger som er gjort i disse fagene.

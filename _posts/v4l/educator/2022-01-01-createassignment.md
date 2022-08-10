@@ -6,18 +6,15 @@ categories: educator
 permalink: /v4l/educator/assignment/
 ---
 
-CreateAssignment
+# Oppgaver
 
-## For å opprette gjør du følgende:
+Her finner du de fag hvor du er registret som fagansvarlig i Feide. Hvis du er klassekontakt ser du alle fagene din klasse har.
 
-- liste 1
-- liste 1
-- liste 1
-- liste 1
+Her kan du opprette nye skriveoppgaver eller læringsdagbøker for elevene.
 
-## Hva betyr det for elevene
+## Egenskaper ved en oppgave
 
-1. liste 1
-2. liste 1
-3. liste 1
-4. liste 1
+* For en oppgave kan du angi hvor lenge den skal vare, fra noen minutter til måneder.
+* Du angir hvem som skal vurdere oppgaven, om det er deg som lærer eller om elevene skal vurdere hverandres oppgaver.
+* Du bestemmer hvor mye støtte elevene skal få fra den innebygde editoren, hvilken støtte som skal gis bør vurderes etter hva læringsmålet er.
+* Du kan legge inn forhåndsplanlagte tilbakemeldinger til elevene, hvor elevene får beskjeder etter hvor mange ord de har skrevet eller etter hvor lang tid de har brukt.

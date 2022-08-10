@@ -5,19 +5,23 @@ date: 2022-01-01
 categories: educator
 permalink: /v4l/educator/assignmentassignment/
 ---
+ # Opprette en vurderingsoppgave eller læringsdagbok
 
-CreateAssignment Subject
+ Forskjellen på en læringsdagbok og en vurderingsoppgave er hvor lenge de varer. En vurderingsoppgave varer vanligvis fra 30-90 minutter, mens en læringsdagbok vanligvis varer i flere uker (eller hvor lenge det jobbes med et læringsmål.)
 
-## For å opprette gjør du følgende:
+ Her skal du oppgi følgende informasjon:
 
-- liste 1
-- liste 1
-- liste 1
-- liste 1
+ * Oppgavetittel: Hvilket spørsmål elevene skal vurderer i forhold til
+ * Tidspunkt: Hvilket tidsrom oppgaven skal være tilgjengelig for elevene
+ * Antall ord: En indikator på hvor mye tekst du forventer at elevene skal skrive. Elevene har en indikator som teller ned antall ord når de skriver.
+ * Editor funksjonalitet: Hvor mye støtte elevene skal få fra editoren:
+    * **Forenklet editor** har begrenset funksjonalitet, det er ikke mulig å lime inn. Og du kan kun velge overskrifter på 2 nivåer og enkle lister.
+    * **Full editorfunksjonalitet** har full funksjonalitet, her kan du sette inn bilder/tabeller/formler og andre elementer det er vanlig å finne i en tekstbehandler.
+    * **Engelsk full skrivestøtte** mot en ekstra kostnad kan vi integrere funksjonalitet fra [Grammarly](https://www.grammarly.com/) hvor du som lærer kan konfigurere hvor mye skrivestøtte elevene skal få. All denne funksjonalitet er enda ikke implementert.
+* Tid på oppgaven: Kommer opp automatisk basert på det tidspunkt du har angitt, elevene har en nedtellingsfunksjon for hvor mange minutter de har igjen.
+* Hvem som vurdere oppgaven: Skal du som lærer vurdere oppgaven, eller skal elvene vurdere hverandres oppgaver.
+    * Hvis elevene skal vurdere hverandres oppgave vil du som lærere angi hvilken oppgaver elevene skal rette når de er ferdige. Du har også muligheten til å lage en liten veiledning til elevene.
+* Læringsmål: Hvis du sammen med klassen har definert læringsmål, kan du krysse av hvilke læringsmål som gjelder for denne oppgaven.
+* Planlagte veiledninger: Her kan forhåndsprogrammere tilbakemeldinger til elevene, enten etter hvor mange ord de har skrvevet, eller etter hvor mange minutter de har jobbet totalt.
 
-## Hva betyr det for elevene
-
-1. liste 1
-2. liste 1
-3. liste 1
-4. liste 1
+Du kan slette en oppgave helt frem til den skal starte ved å klikke på søppelkasse symbolet ned til høyre. Ved siden av den grønne *lagre* knappen.

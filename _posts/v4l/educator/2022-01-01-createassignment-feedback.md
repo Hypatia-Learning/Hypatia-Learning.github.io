@@ -6,18 +6,15 @@ categories: educator
 permalink: /v4l/educator/assignmentfeedback/
 ---
 
-CreateAssignment Subject Tilbakemeldinger
+# Planlagt tilbakemelding
 
-## For å opprette gjør du følgende:
+Her legger du inn *forhåndsprogrammerte* tilbakemeldinger for å veilede elevene når de skriver oppgaven.
 
-- liste 1
-- liste 1
-- liste 1
-- liste 1
+Veiledningen du legger inn her dukker opp hos elvene mens de skriver, avhengig av hvor mange ord de har skrevet eller hvor lang tid det har gått.
 
-## Hva betyr det for elevene
+Du angir hvilken type veiledning som skal gis, om denne skal være basert på **min**utter som har gått eller på antall **ord** som er skrevet.
+Så angir du om veilednigen skal gis etter **antall** _min_utter, eller om den skal gi setter **antall** _ord_ som er skrevet.
 
-1. liste 1
-2. liste 1
-3. liste 1
-4. liste 1
+Til slutt legger du inn veiledningsteksten som skal vises for elevene.
+
+Hvis du ønsker å slette en planlagt tilbakemelding, klikker på søppelkassen på den lyseblå linjen (til venstre for hjelp knappen)

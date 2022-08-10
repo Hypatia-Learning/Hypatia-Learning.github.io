@@ -6,18 +6,6 @@ categories: educator
 permalink: /v4l/educator/assessesassignment/
 ---
 
-Asssignment being assessed by educatoor
+# Fag hvor du skal gi en vurdering
 
-## For å opprette gjør du følgende:
-
-- liste 1
-- liste 1
-- liste 1
-- liste 1
-
-## Hva betyr det for elevene
-
-1. liste 1
-2. liste 1
-3. liste 1
-4. liste 1
+Ved å klikke på 'pil ned' knappen til høyre får du opp alle oppgavene som er gitt i faget, og hvilke vurderinger du enda ikke har gjort.
