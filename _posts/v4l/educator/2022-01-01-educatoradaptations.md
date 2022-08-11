@@ -1,12 +1,12 @@
 ---
 layout: educator
-title: 'Opprette skriftlig oppgave for vurdering'
+title: 'Fra kompetansemål til læringsmål'
 date: 2022-01-01
 categories: educator
 permalink: /v4l/educator/educatoradaptations/
 ---
 
-# Kompetansemål til læringsmål
+# Fra kompetansemål til læringsmål
 
 Her finner de kompetansemål som er vedtatt av myndighetene.
 

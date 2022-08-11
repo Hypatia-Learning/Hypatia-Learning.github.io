@@ -1,6 +1,6 @@
 ---
 layout: educator
-title: 'Opprette skriftlig oppgave for vurdering'
+title: 'Fag hvor du skal gi en vurdering'
 date: 2022-01-01
 categories: educator
 permalink: /v4l/educator/assessesassignment/

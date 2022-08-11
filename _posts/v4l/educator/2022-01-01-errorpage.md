@@ -1,12 +1,12 @@
 ---
 layout: educator
-title: 'Opprette skriftlig oppgave for vurdering'
+title: 'ERROR PAGE'
 date: 2022-01-01
 categories: educator
 permalink: /v4l/educator/Errorpage/
 ---
 
-ERROR PAGE
+# ERROR PAGE
 
 ## For å opprette gjør du følgende:
 

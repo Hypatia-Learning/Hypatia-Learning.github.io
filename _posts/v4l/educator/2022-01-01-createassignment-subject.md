@@ -1,12 +1,12 @@
 ---
 layout: educator
-title: 'Opprette skriftlig oppgave for vurdering i et fag'
+title: 'CreateAssignment Subject Assignment'
 date: 2022-01-01
 categories: educator
 permalink: /v4l/educator/assignmentsubject/
 ---
 
-CreateAssignment Subject Assignment
+# CreateAssignment Subject Assignment
 
 ## For å opprette gjør du følgende:
 
