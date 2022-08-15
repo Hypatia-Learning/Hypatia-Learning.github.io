@@ -3,7 +3,7 @@ layout: learner
 title: 'Skriv tekst - forfattermiljø'
 date: 2022-01-01
 categories: learner
-permalink: /v4l/learner/todayswrittenassignemnts/
+permalink: /v4l/learner/writetext/
 ---
 
 # Forfattermiljø
