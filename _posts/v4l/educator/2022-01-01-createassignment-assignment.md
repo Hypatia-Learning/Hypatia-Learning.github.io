@@ -5,7 +5,9 @@ date: 2022-01-01
 categories: educator
 permalink: /v4l/educator/assignmentassignment/
 ---
- # Opprette en vurderingsoppgave eller læringsdagbok
+
+
+# Opprette en vurderingsoppgave eller læringsdagbok
 
  Forskjellen på en læringsdagbok og en vurderingsoppgave er hvor lenge de varer. En vurderingsoppgave varer vanligvis fra 30-90 minutter, mens en læringsdagbok vanligvis varer i flere uker (eller hvor lenge det jobbes med et læringsmål.)
 
