@@ -3,7 +3,7 @@ layout: learner
 title: 'Skriftlige oppgave og læringsdagbok - oppgave som skal fullføres'
 date: 2022-01-01
 categories: learner
-permalink: /v4l/learner/todayswrittenassignmentstask/
+permalink: /v4l/learner/todayswrittenassignemntstask/
 ---
 
 # Skriftlig oppgave eller læringsdagbok
