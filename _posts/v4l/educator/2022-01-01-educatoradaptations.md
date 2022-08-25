@@ -3,7 +3,7 @@ layout: educator
 title: 'Fra kompetansemål til læringsmål'
 date: 2022-01-01
 categories: educator
-permalink: /v4l/educator/educatoradaptations/
+permalink: /v4l/educator/educatoradaptions/
 ---
 
 # Fra kompetansemål til læringsmål
