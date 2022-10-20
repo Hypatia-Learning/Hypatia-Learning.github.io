@@ -10,30 +10,31 @@ permalink: /v4l/educator/assesstext/
 
 Hvis du ser et blått banner med teksten "Eleven har enda ikke..." så betyr at det at eleven enten ikke har trykket på 'avslutt oppgave' når han jobbet med den, eller at eleven fremdeles jobber med oppgaven. Hvis du vet at eleven er ferdig, kan du **Tvinge avslutning av oppgaven** for å starte vurderingen.
 
+![Vurdering av oppgave skjermbilde](/assets/img/educator/educator-assesses.png){:class="img100"}
+
+
 Til høyre for elevens navn kan du se individuelle og felles tilbakemeldinger som er gitt til eleven.
+# Hvordan vurdere en tekst
 
-Til høyre for teksten **Tilbakemeldinger** er det to knapper
-* **Jordkloden**: vil ved en engelsk tekst sende teksten til en ekstern tjeneste for å finne skrive feil og enklere gramatikk feil. Du kan så velge hvilke av disse som skal vises til eleven.
-* **Ark med øye**: vil sende teksten til kontroll for plagiering. Dette er en tjeneste som koster ekstra. Når du sender teksten til kontroll for hvor mye som er kopiert fra andre kilder, får du etter en tid (ca 1 minutt) en PDF rapport som sier noe om hva, og hvor mye som er kopiert fra andre eksterne kilder. Det er ikke sikkert dette er et problem avhengig av hvilken oppgave som er gitt.
+Når du skal vurdere en tekst er det flere måter du kan gjøre det på.
 
-Til høyre under **Tilbakemeldinger** ser du hvilke tilbakemeldinger du har gitt så langt.
 
-## Vurdere tekst
+![Hvordan gi tilbakemelding](/assets/img/educator/educator-assesses-options.png){:class="img50"}
 
-For å gi konkrete tilbakemeldinger om forbedringer eller andre aspekter ved teksten markerer du teksten du vil kommentere. Du får da opp en vindu med teksten du har markert, du kan så velge føglgende:
-* Angi hvilken type tilbakemelding du vil gi:
-    1. **Gramatikk**: Om ord som er skrevet feil, eller brudd på gramatiske regler
-    2. **Semantikk/innhold**: Om tematikk som mangler i teksten, eller ikke er tilstrekkelig beskrevet og forklart
-    3. **Tone/Følelse**: Om tonen i teksten, og om denne er passende for oppgaven som er besvart
-    4. **Generell**: Generell vurdering av arbeidet som er gjort
-    5. **Vurdering**: Kan være en tallkarakter, eller en vurdering av måloppnåelse i forhold til de læringsmål det er jobet med.
-* Tilbakemelding til eleven: En forklaring på hvorfor du mener at eleven kunne gjort det bedre
-* Forslag til forbedring: Hvilke grep kunne eleven gjort for å ha skrevet en bedre oppave, momenter til videre læring
+## Tilbakemelding på problem i tekst
+Du kan markere en tekst, når du har markert en tekst får du ett vindu med mulighet for å gi tilbakemelding på den markerte teksten. Du kan velge hvilken type tilbakemelding du vil gi. Skrivefeil/Grammatikk, Innhold eller Tonen i språket.
+Vi anbefaler også at du både angir hva som er feil, og hva eleven må gjøre for at det skal bli bedre.
 
-For å registrere tilbakemeldingen trykker du på den grønne lagreknappen.
+## AI4AfL Vurderingsskjema
+Dette er et vurderingsskjema som er spesielt for [Forskningsprosjektet AI4AfL](https://www.ai4afl.no/) de tilbakemeldinger som gis her brukes for å trene den kunstige intelligens som utvikles som del av prosjektet.
 
-Du kan slette en vurdering ved å klikke på krysset *x* ved vurderingen.
+## Grammatikk og stavekontroll
+Det gjøres en automatisk kontroll av teksten for å identifisere mulige problemer i teksten, både i forhold til grammatikk og skrivefeil. I noen språk støttes kun stavekontroll, som f.eks. Norsk.
+Du får opp en samlet liste over alle identifiserte problemer, og så kan du velge hvilke problemer som kan være relevante for eleven.
 
-## Avslutte en vurdering
+## Plagiat kontroll
+Som en tilleggs tjeneste kan vi også sjekke om teksten som er innlevert er kopiert fra andre steder. Dette er en tjeneste som krever egen lisens.
+
+# Avslutte en vurdering
 
 Når du er ferdig med vurderingen klikker du på 'målgang' iconet under teksten.

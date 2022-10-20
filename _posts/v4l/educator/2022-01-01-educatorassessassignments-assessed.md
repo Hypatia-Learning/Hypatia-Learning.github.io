@@ -6,8 +6,6 @@ categories: educator
 permalink: /v4l/educator/assessesassessed/
 ---
 
-# Vurderingsoppgave
-
 Her ser du oppgavene i faget. Tallet i blå paranteser er hvor mange oppgaver du enda ikke har vurdert.
 
 Ved å klikke på 'ned pilen' til høyre får du opp hvilke elevers oppgaver du enda ikke har vurdert.
@@ -17,4 +15,7 @@ Hvis elever har vurdert oppgavene ser du hvilke vurderinger de har gjort.
 
 Ved å klikke på 'ned pilen' til høyre for elevens navn får du opp informasjon om oppgaven til eleven.
 Ved å klikke på 'arket' til høyre for oppgaven får du opp hele oppgaven, hvor du kan gi konkrete tilbakemeldinger.
+
+![Bildetittel](/assets/img/bilde1.jpg){:class="img100"}
+
 

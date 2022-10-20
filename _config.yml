@@ -31,7 +31,14 @@ github_username: erlendoverby
 # Build settings
 theme: minima
 plugins:
+  - jekyll-embed-vimeo
   - jekyll-feed
+  - render-time
+  - foobar
+
+whitelist:
+ - jekyll-embed-vimeo
+ - render-time
 
 # Exclude from processing.
 # The following items will not be processed, by default.
