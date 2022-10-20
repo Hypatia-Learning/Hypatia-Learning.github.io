@@ -41,8 +41,8 @@ h3 {
 
 
 .skole {
-  border-top: 0.3vh solid $grey-color-light;
-  border-bottom: 0.3vh solid $grey-color-light;
+  border-top: 0.3vh solid rgba(97, 99, 99, 0.4);
+  border-bottom: 0.3vh solid rgba(97, 99, 99, 0.4);
   padding: 2vh 2vw 2vh 2vw;
 }
 
@@ -63,6 +63,6 @@ h3 {
   width: 100%;
   padding: 2vh 2vw 2vh 2vw;
   margin-right: 2vw;
-  border: 1px solid rgba(100,50,100,.4);
+  border: 1px solid rgba(97, 99, 99, 0.4);
 }
 
