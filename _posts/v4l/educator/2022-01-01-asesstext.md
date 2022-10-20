@@ -10,7 +10,7 @@ permalink: /v4l/educator/assesstext/
 
 Hvis du ser et blått banner med teksten "Eleven har enda ikke..." så betyr at det at eleven enten ikke har trykket på 'avslutt oppgave' når han jobbet med den, eller at eleven fremdeles jobber med oppgaven. Hvis du vet at eleven er ferdig, kan du **Tvinge avslutning av oppgaven** for å starte vurderingen.
 
-![Vurdering av oppgave skjermbilde](/assets/img/educator/educator-assesses.png){:class="img100"}
+![Vurdering av oppgave skjermbilde](https://help.v4l.no/assets/img/educator/educator-assesses.png){:class="img100"}
 
 
 Til høyre for elevens navn kan du se individuelle og felles tilbakemeldinger som er gitt til eleven.
@@ -19,7 +19,7 @@ Til høyre for elevens navn kan du se individuelle og felles tilbakemeldinger so
 Når du skal vurdere en tekst er det flere måter du kan gjøre det på.
 
 
-![Hvordan gi tilbakemelding](/assets/img/educator/educator-assesses-options.png){:class="img50"}
+![Hvordan gi tilbakemelding](https://help.v4l.no/assets/img/educator/educator-assesses-options.png){:class="img50"}
 
 ## Tilbakemelding på problem i tekst
 Du kan markere en tekst, når du har markert en tekst får du ett vindu med mulighet for å gi tilbakemelding på den markerte teksten. Du kan velge hvilken type tilbakemelding du vil gi. Skrivefeil/Grammatikk, Innhold eller Tonen i språket.
@@ -37,4 +37,4 @@ Som en tilleggs tjeneste kan vi også sjekke om teksten som er innlevert er kopi
 
 # Avslutte en vurdering
 
-Når du er ferdig med vurderingen klikker du på 'målgang' iconet under teksten.
+Når du er ferdig med vurderingen klikker du på 'målgang' iconet under teksten. Dine tilbakemeldinger blir da gjort tilgjengelig for eleven.
