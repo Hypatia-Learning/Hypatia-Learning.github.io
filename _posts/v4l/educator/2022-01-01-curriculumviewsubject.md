@@ -1,11 +1,10 @@
 ---
 layout: educator
-title: 'Etablere læringsmål'
+title: 'Fag med kompetanse og læringsmål'
 date: 2022-01-01
 categories: educator
 permalink: /v4l/educator/curriculumviewsubject/
 ---
 
-Her finner du kompetansemålene som gjelder for dine fag.
 
-
+![Læringsmål oversikt](/assets/img/educator/curriculum1.png){:class="img50"}

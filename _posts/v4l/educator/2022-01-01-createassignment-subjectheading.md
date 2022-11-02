@@ -1,11 +1,13 @@
 ---
 layout: educator
-title: 'Fag'
+title: 'Fag '
 date: 2022-01-01
 categories: educator
 permalink: /v4l/educator/assignmentsubjectheading/
 ---
-# Fag
+
+![Oppgave oversikt](/assets/img/educator/assignment1.png){:class="img50"}
+
 
 Ved å klikke på det blå pluss symbolet til høyre for det spørsmålstegn du har klikket på, vil du opprette en ny oppgave i dette faget.
 

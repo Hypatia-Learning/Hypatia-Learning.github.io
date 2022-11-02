@@ -6,4 +6,16 @@ categories: educator
 permalink: /v4l/educator/curriculumviewitem/
 ---
 
-Her finner du informasjon om hvordan spesifisere et læringsmål, og hvilken informasjon som følger med læringsmålet.
+![Beskriv læringsmål](/assets/img/educator/curriculum3.png){:class="img50"}
+
+## Beskriv detaljert læringsmål med utgangspunkt i et kompetansemål
+
+![Detaljer til et læringsmål](/assets/img/educator/curriculum4.png){:class="img50"}
+
+## Utvidet informasjon om kompetansemålet
+
+![Utvidet informasjon til et kompetansemål](/assets/img/educator/curriculum5.png){:class="img50"}
+
+## Flere læringsmål til et kompetansemål
+
+![Detaljer til et læringsmål](/assets/img/educator/curriculum6.png){:class="img50"}

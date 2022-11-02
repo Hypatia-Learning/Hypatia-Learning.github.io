@@ -6,13 +6,25 @@ categories: educator
 permalink: /v4l/educator/assignment/
 ---
 
-# Oppgaver
 
-Her finner du de fag hvor du er registret som fagansvarlig i Feide. Hvis du er klassekontakt ser du alle fagene din klasse har.
+![Oppgave oversikt](/assets/img/educator/assignment1.png){:class="img50"}
 
-Her kan du opprette nye skriveoppgaver eller læringsdagbøker for elevene.
+# Oppavetyper
+I AI4AfL prosjektet skal kontrollgruppen ikke velge noen oppgavetype.
 
-## Egenskaper ved en oppgave
+### Testgruppen 
+Velger **«V4L Språk»** som oppgavetype.
+V4L oppgavetyper er markert med et **«reagensglass»**.
+
+![Kontrollgruppen velger V4L Språk](/assets/img/educator/assignment2.png){:class="img25"}
+
+Dette betyr at elevene følger en mer automatisk støttet prosess for Vurdering for Læring, hvor elever skrive en tekst, får automatisk tilbakemelding på denne, diskuterer tilbakemeldingen i en gruppe. Elevene skriver så en ny tekst, får automatisk tilbakemelding og diskuterer denne, før de skriver en endelig versjon som skal vurderes av lærer. Når du vurderer oppgaven må du også fylle ut et spesielt evalueringsskjema for AI4AfL prosjektet.
+
+### Kontrollgruppen 
+Velger en **«vanlig»** oppgavetype. For å simulere samme opplegg vil vi være nødt til å lage tre oppgaver, hvor de to første oppgavene blir vurdert av elever, og hvor den siste oppgaven vurderes av lærer.
+
+
+# Egenskaper ved en oppgave
 
 * For en oppgave kan du angi hvor lenge den skal vare, fra noen minutter til måneder.
 * Du angir hvem som skal vurdere oppgaven, om det er deg som lærer eller om elevene skal vurdere hverandres oppgaver.

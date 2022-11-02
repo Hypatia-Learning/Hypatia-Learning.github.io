@@ -6,10 +6,9 @@ categories: educator
 permalink: /v4l/educator/todaysactiveassignments/
 ---
 
-# Pågående oppgaver
 
-Her ser du alle oppgaver som elevene jobber med nå.
-Du ser hvor mange ord de har skrevet, hvor lang tid de har brukt, og om de har levert inn oppgaven (slutt tidspunkt i rødt)
+![Pågående oppgaver](/assets/img/educator/ongoing1.png){:class="img100"}
+
 
 ## Funksjonalitet:
 
@@ -19,5 +18,12 @@ Du ser hvor mange ord de har skrevet, hvor lang tid de har brukt, og om de har l
 4. Du kan gi en tilbakemelding til en enkelt elev
 5. Du kan markere en tekst og gi en konkret tilbakemelding på teksten eleven har skrevet
 
+# Ordsky 
 
-Teksten oppdateres automatisk flere ganger i minuttet.
+
+![Ordsky](/assets/img/educator/ongoing2.png){:class="img100"}
+
+# Se alt elevene skriver
+
+
+![Alle elevtekster](/assets/img/educator/ongoing3.png){:class="img100"}

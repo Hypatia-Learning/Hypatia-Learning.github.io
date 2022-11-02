@@ -6,6 +6,5 @@ categories: educator
 permalink: /v4l/educator/assesses/
 ---
 
-# Oppgaver til vurdering
 
-Her ser du de fag du er registret som faglærer til, du ser hvor mange oppgaver det er for hvert fag, og hvor mange oppgaver som enda ikke er vudert.
+![Oppgave til vurdering](/assets/img/educator/assess1.png){:class="img50"}

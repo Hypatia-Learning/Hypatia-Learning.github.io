@@ -1,11 +1,29 @@
 ---
 layout: educator
-title: 'Fagoversikt'
+title: 'Kompetansemål og læringsmål'
 date: 2022-01-01
 categories: educator
 permalink: /v4l/educator/curriculumview/
 ---
 
-Her finner du en oversikt over dine fag, og ved å klikke på *pil-ned* knappen til høyre for faget får opp en liste over de kompetansemål som gjelder for faget. 
+![Læringsmål oversikt](/assets/img/educator/curriculum1.png){:class="img50"}
 
-Du kan også klikke på hjelp knappen for faget for informasjon om hvordan du kan tilpasse kompetansemålet til læringsmål sammen med klassen.
+## Liste over kompetansemål og læringsmål
+
+![Læringsmål til fag oversikt](/assets/img/educator/curriculum2.png){:class="img50"}
+
+## Beskriv læringsmål
+
+![Beskriv læringsmål](/assets/img/educator/curriculum3.png){:class="img50"}
+
+## Beskriv detaljert læringsmål med utgangspunkt i et kompetansemål
+
+![Detaljer til et læringsmål](/assets/img/educator/curriculum4.png){:class="img50"}
+
+## Utvidet informasjon om kompetansemålet
+
+![Utvidet informasjon til et kompetansemål](/assets/img/educator/curriculum5.png){:class="img50"}
+
+## Flere læringsmål til et kompetansemål
+
+![Detaljer til et læringsmål](/assets/img/educator/curriculum6.png){:class="img50"}
