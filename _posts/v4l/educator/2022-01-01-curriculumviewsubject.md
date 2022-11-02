@@ -7,4 +7,4 @@ permalink: /v4l/educator/curriculumviewsubject/
 ---
 
 
-![Læringsmål oversikt](/assets/img/educator/curriculum1.png){:class="img50"}
+![Læringsmål oversikt](https://help.v4l.no//assets/img/educator/curriculum1.png){:class="img50"}

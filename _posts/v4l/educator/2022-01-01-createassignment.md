@@ -7,7 +7,7 @@ permalink: /v4l/educator/assignment/
 ---
 
 
-![Oppgave oversikt](/assets/img/educator/assignment1.png){:class="img50"}
+![Oppgave oversikt](https://help.v4l.no//assets/img/educator/assignment1.png){:class="img50"}
 
 # Oppavetyper
 I AI4AfL prosjektet skal kontrollgruppen ikke velge noen oppgavetype.
@@ -16,7 +16,7 @@ I AI4AfL prosjektet skal kontrollgruppen ikke velge noen oppgavetype.
 Velger **«V4L Språk»** som oppgavetype.
 V4L oppgavetyper er markert med et **«reagensglass»**.
 
-![Kontrollgruppen velger V4L Språk](/assets/img/educator/assignment2.png){:class="img25"}
+![Kontrollgruppen velger V4L Språk](https://help.v4l.no//assets/img/educator/assignment2.png){:class="img25"}
 
 Dette betyr at elevene følger en mer automatisk støttet prosess for Vurdering for Læring, hvor elever skrive en tekst, får automatisk tilbakemelding på denne, diskuterer tilbakemeldingen i en gruppe. Elevene skriver så en ny tekst, får automatisk tilbakemelding og diskuterer denne, før de skriver en endelig versjon som skal vurderes av lærer. Når du vurderer oppgaven må du også fylle ut et spesielt evalueringsskjema for AI4AfL prosjektet.
 

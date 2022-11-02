@@ -7,4 +7,4 @@ permalink: /v4l/educator/assesses/
 ---
 
 
-![Oppgave til vurdering](/assets/img/educator/assess1.png){:class="img50"}
+![Oppgave til vurdering](https://help.v4l.no//assets/img/educator/assess1.png){:class="img50"}

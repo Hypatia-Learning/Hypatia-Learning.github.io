@@ -7,7 +7,7 @@ permalink: /v4l/educator/assignmentassignment/
 ---
 
 
-![Oppgave oversikt](/assets/img/educator/assignment3.png){:class="img50"}
+![Oppgave oversikt](https://help.v4l.no//assets/img/educator/assignment3.png){:class="img50"}
 
 # Opprette en _vanlig_-oppgave, læringsdagbok, eller en V4L Språk-oppgave
 
