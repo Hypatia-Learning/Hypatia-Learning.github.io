@@ -16,6 +16,6 @@ Hvis elever har vurdert oppgavene ser du hvilke vurderinger de har gjort.
 Ved å klikke på 'ned pilen' til høyre for elevens navn får du opp informasjon om oppgaven til eleven.
 Ved å klikke på 'arket' til høyre for oppgaven får du opp hele oppgaven, hvor du kan gi konkrete tilbakemeldinger.
 
-![Bildetittel](https://help.v4l.no//assets/img/bilde1.jpg){:class="img100"}
+![Bildetittel](https://help.v4l.no//assets/img/bilde1.jpg){:class="img50"}
 
 

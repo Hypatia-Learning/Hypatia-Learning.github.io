@@ -7,7 +7,7 @@ permalink: /v4l/educator/todaysactiveassignments/
 ---
 
 
-![Pågående oppgaver](https://help.v4l.no//assets/img/educator/ongoing1.png){:class="img100"}
+![Pågående oppgaver](https://help.v4l.no//assets/img/educator/ongoing1.png){:class="img50"}
 
 
 ## Funksjonalitet:
@@ -21,9 +21,9 @@ permalink: /v4l/educator/todaysactiveassignments/
 # Ordsky 
 
 
-![Ordsky](https://help.v4l.no//assets/img/educator/ongoing2.png){:class="img100"}
+![Ordsky](https://help.v4l.no//assets/img/educator/ongoing2.png){:class="img50"}
 
 # Se alt elevene skriver
 
 
-![Alle elevtekster](https://help.v4l.no//assets/img/educator/ongoing3.png){:class="img100"}
+![Alle elevtekster](https://help.v4l.no//assets/img/educator/ongoing3.png){:class="img50"}
